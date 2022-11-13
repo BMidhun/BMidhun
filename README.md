@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BMidhun
+- 👀 I’m Full Stack JS Developer
+- 🌱 I’m currently Learning.......
